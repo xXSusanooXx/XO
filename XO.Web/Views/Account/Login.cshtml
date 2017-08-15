@@ -1,0 +1,24 @@
+﻿@model XO.Web.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "form" }))
+{
+    <h2>Вход</h2>
+    @Html.ValidationSummary()
+    @Html.LabelFor(m => m.Login, new { @class = "form-label" })
+    @Html.TextBoxFor(m => m.Login, new { @class = "form-text" })
+
+    @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+    @Html.PasswordFor(m => m.Password, new { @class = "form-text" })
+    <div class="form-label-wrap">
+        @Html.LabelFor(m => m.RememberMe, new { @class = "form-label" })
+        @Html.CheckBoxFor(m => m.RememberMe, new { @class = "form-text" })
+    </div>
+    <input class="form-submit" type="submit" value="Войти" />
+    @Html.ActionLink("Регистрация", "Register")
+}
+
+
+

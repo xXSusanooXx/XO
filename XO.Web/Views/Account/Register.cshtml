@@ -1,0 +1,28 @@
+﻿@model XO.Web.Models.RegisterModel
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form" }))
+{
+    <h2>Регистрация</h2>
+    @Html.ValidationSummary()
+    @Html.LabelFor(m => m.Login, new { @class = "form-label" })
+    @Html.TextBoxFor(m => m.Login, new { @class = "form-text" })
+
+    @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+    @Html.PasswordFor(m => m.Password, new { @class = "form-text" })
+
+    @Html.LabelFor(m => m.PasswordConfirmation, new { @class = "form-label" })
+    @Html.PasswordFor(m => m.PasswordConfirmation, new { @class = "form-text" })
+
+    <br />
+    <input class="form-submit" type="submit" value="Зарегестрироваться" />
+    
+    @Html.ActionLink("У меня уже есть аккаунт", "Login")
+}
+
+
+
+

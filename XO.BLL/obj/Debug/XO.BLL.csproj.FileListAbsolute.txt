@@ -1,0 +1,14 @@
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.BLL.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.BLL.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.DAL.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.Model.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.DAL.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.Model.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\obj\Debug\XO.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\obj\Debug\XO.BLL.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\obj\Debug\XO.BLL.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\XO.BLL.dll.config
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.BLL\bin\Debug\EntityFramework.SqlServer.xml

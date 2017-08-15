@@ -1,0 +1,5 @@
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.Model\bin\Debug\XO.Model.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.Model\bin\Debug\XO.Model.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.Model\obj\Debug\XO.Model.csprojResolveAssemblyReference.cache
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.Model\obj\Debug\XO.Model.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.Model\obj\Debug\XO.Model.pdb

@@ -1,0 +1,14 @@
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\XO.DAL.dll.config
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\XO.DAL.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\XO.DAL.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\XO.Model.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\XO.Model.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\obj\Debug\XO.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\obj\Debug\XO.DAL.dll
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\obj\Debug\XO.DAL.pdb
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\obj\Debug\XO.DAL.Migrations.First.resources
+C:\Users\Юра\Desktop\c#\asp.mvc\XO\XO.DAL\obj\Debug\XO.DAL.csproj.GenerateResource.Cache

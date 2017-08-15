@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@section scripts {
+    <!--Ссылка на библиотеку SignalR -->
+    <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <!--Ссылка на автоматически сгенерированный скрипт хаба SignalR -->
+    <script src="~/signalr/hubs"></script>
+    <script src="~/Scripts/XO/Field.js"></script>
+    <script src="~/Scripts/XO/Game.js"></script>
+    <script src="~/Scripts/XO/index.js"></script>
+}
+<h2 class="waiter">Waiting for another player......</h2>
+<div class="game-block-wrap" style="display: none;">
+</div>
+
